@@ -2,6 +2,21 @@
 
 ## 2025
 
+### 3rd of November
+
+- Fix: AIA URIs are now tested additionally tested for TLS inspection (instead of only CRL URIs)
+- Fix: #1 - Added multiple new paths to provide CSVs (or don't and let the autodetection do it ;)).
+
+### 13th of October
+
+- Add: [ID-to-Service-List](ID-to-Service-List.md) documentation file to provide mapping of custom IDs to services and lists
+- Add: #2 added new check for NuGet endpoints
+
+### 09th of October
+
+- Add: [MCC](MCC.csv) endpoints for standalone MCC installations.
+- Update: Delivery Optimization endpoints
+
 ### 29th of August
 
 - Add: Microsoft Defender for Endpoint Endpoints
