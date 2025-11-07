@@ -2030,7 +2030,7 @@ function Build-OutputCSV {
         $OutpathFilePath = $(Join-Path $Script:OutpathFilePath -ChildPath "\ResultList$("_"+$Script:DateTime + "_"+ $Env:COMPUTERNAME).csv")
         $Script:FinalResultList | Export-Csv -Path $OutpathFilePath -Encoding utf8
     } elseif ($InputCSVs.Count -eq 2) {
-        $MergedCSVTargetFolder = $(Join-Path $WorkingDirectory -ChildPath '/MergedResults')
+        $MergedCSVTargetFolder = $(Join-Path $Script:WorkingDirectory -ChildPath '/MergedResults')
         if (-not(Test-Path $MergedCSVTargetFolder)) { New-Item -Path $MergedCSVTargetFolder -ItemType Directory | Out-Null }
         $OutpathFilePath = $(Join-Path $MergedCSVTargetFolder -ChildPath "/MergedResults$("_"+$Script:DateTime + "_"+ $Script:MergeCSVComputername1 + "_" + $Script:MergeCSVComputername2).csv")
         $Script:ComparedResults | Export-Csv -Path $OutpathFilePath -Encoding utf8 -Force
