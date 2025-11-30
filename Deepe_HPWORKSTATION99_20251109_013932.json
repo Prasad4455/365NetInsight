@@ -1,0 +1,1160 @@
+﻿{
+    "ConnectivityResults":  {
+                                "M365CommonEndpoints":  [
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:00",
+                                                                "Mandatory":  true,
+                                                                "URL":  "account.activedirectory.windowsazure.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:00",
+                                                                "Mandatory":  true,
+                                                                "URL":  "accounts.accesscontrol.windows.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:00",
+                                                                "Mandatory":  true,
+                                                                "URL":  "adminwebservice.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "api.passwordreset.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "auth.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "autologon.microsoftazuread-sso.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "becws.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ccs.login.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:01",
+                                                                "Mandatory":  true,
+                                                                "URL":  "clientconfig.microsoftonline-p.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:02",
+                                                                "Mandatory":  true,
+                                                                "URL":  "companymanager.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:02",
+                                                                "Mandatory":  true,
+                                                                "URL":  "device.login.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:02",
+                                                                "Mandatory":  true,
+                                                                "URL":  "graph.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:02",
+                                                                "Mandatory":  true,
+                                                                "URL":  "graph.windows.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:02",
+                                                                "Mandatory":  true,
+                                                                "URL":  "login.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:03",
+                                                                "Mandatory":  true,
+                                                                "URL":  "login.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:03",
+                                                                "Mandatory":  true,
+                                                                "URL":  "login.microsoftonline-p.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:04",
+                                                                "Mandatory":  true,
+                                                                "URL":  "login.windows.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:05",
+                                                                "Mandatory":  true,
+                                                                "URL":  "logincert.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:05",
+                                                                "Mandatory":  true,
+                                                                "URL":  "loginex.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:06",
+                                                                "Mandatory":  true,
+                                                                "URL":  "login-us.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:07",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msftidentity.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:07",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msidentity.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:07",
+                                                                "Mandatory":  true,
+                                                                "URL":  "nexus.microsoftonline-p.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:08",
+                                                                "Mandatory":  true,
+                                                                "URL":  "passwordreset.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:08",
+                                                                "Mandatory":  true,
+                                                                "URL":  "provisioningapi.microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:08",
+                                                                "Mandatory":  true,
+                                                                "URL":  "enterpriseregistration.windows.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "hip.live.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "microsoftonline.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "microsoftonline-p.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msauth.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msauthimages.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msecnd.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msftauth.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msftauthimages.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:09",
+                                                                "Mandatory":  true,
+                                                                "URL":  "phonefactor.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:22",
+                                                                "Mandatory":  true,
+                                                                "URL":  "microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:22",
+                                                                "Mandatory":  true,
+                                                                "URL":  "msocdn.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:22",
+                                                                "Mandatory":  true,
+                                                                "URL":  "onmicrosoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:22",
+                                                                "Mandatory":  true,
+                                                                "URL":  "activation.sls.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:43",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:44",
+                                                                "Mandatory":  true,
+                                                                "URL":  "cacerts.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:45",
+                                                                "Mandatory":  true,
+                                                                "URL":  "cert.int-x3.letsencrypt.org",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:45",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl.globalsign.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:46",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl.globalsign.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:47",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl.identrust.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:47",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl3.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:48",
+                                                                "Mandatory":  true,
+                                                                "URL":  "crl4.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:49",
+                                                                "Mandatory":  true,
+                                                                "URL":  "entrust.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:52",
+                                                                "Mandatory":  true,
+                                                                "URL":  "geotrust.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:52",
+                                                                "Mandatory":  true,
+                                                                "URL":  "isrg.trustid.ocsp.identrust.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:53",
+                                                                "Mandatory":  true,
+                                                                "URL":  "mscrl.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:53",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ocsp.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:53",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ocsp.globalsign.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:53",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ocsp.msocsp.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:53",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ocsp2.globalsign.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "ocspx.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "omniroot.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "oneocsp.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "public-trust.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "secure.globalsign.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "symcb.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "symcd.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:54",
+                                                                "Mandatory":  true,
+                                                                "URL":  "verisign.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:57",
+                                                                "Mandatory":  true,
+                                                                "URL":  "verisign.net",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:57",
+                                                                "Mandatory":  true,
+                                                                "URL":  "www.digicert.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:57",
+                                                                "Mandatory":  true,
+                                                                "URL":  "www.microsoft.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            },
+                                                            {
+                                                                "Category":  "M365 Common",
+                                                                "TestTimestamp":  "2025-11-09 01:32:58",
+                                                                "Mandatory":  true,
+                                                                "URL":  "activity.windows.com",
+                                                                "StatusCode":  200,
+                                                                "Status":  "Success",
+                                                                "RegionNote":  "All tenants"
+                                                            }
+                                                        ],
+                                "IntuneEndpoints":  [
+                                                        {
+                                                            "Category":  "Global",
+                                                            "TestTimestamp":  "2025-11-09 01:32:58",
+                                                            "Mandatory":  true,
+                                                            "URL":  "manage.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:32:58",
+                                                            "Mandatory":  true,
+                                                            "URL":  "adl.windows.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:32:58",
+                                                            "Mandatory":  true,
+                                                            "URL":  "dl.delivery.mp.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:32:59",
+                                                            "Mandatory":  true,
+                                                            "URL":  "do.dsp.mp.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:32:59",
+                                                            "Mandatory":  true,
+                                                            "URL":  "tsfe.trafficshaping.dsp.mp.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:33:21",
+                                                            "Mandatory":  true,
+                                                            "URL":  "update.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Delivery Optimization",
+                                                            "TestTimestamp":  "2025-11-09 01:33:22",
+                                                            "Mandatory":  true,
+                                                            "URL":  "windowsupdate.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "NTP Sync",
+                                                            "TestTimestamp":  "2025-11-09 01:33:22",
+                                                            "Mandatory":  true,
+                                                            "URL":  "time.windows.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Windows Notifications \u0026 Store",
+                                                            "TestTimestamp":  "2025-11-09 01:33:22",
+                                                            "Mandatory":  true,
+                                                            "URL":  "clientconfig.passport.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Windows Notifications \u0026 Store",
+                                                            "TestTimestamp":  "2025-11-09 01:33:23",
+                                                            "Mandatory":  true,
+                                                            "URL":  "s-microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Windows Notifications \u0026 Store",
+                                                            "TestTimestamp":  "2025-11-09 01:33:23",
+                                                            "Mandatory":  true,
+                                                            "URL":  "windowsphone.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:24",
+                                                            "Mandatory":  true,
+                                                            "URL":  "approdimedatahotfix.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:24",
+                                                            "Mandatory":  true,
+                                                            "URL":  "approdimedatapri.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:24",
+                                                            "Mandatory":  true,
+                                                            "URL":  "approdimedatasec.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:24",
+                                                            "Mandatory":  true,
+                                                            "URL":  "euprodimedatahotfix.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:25",
+                                                            "Mandatory":  true,
+                                                            "URL":  "euprodimedatapri.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:26",
+                                                            "Mandatory":  true,
+                                                            "URL":  "euprodimedatasec.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:27",
+                                                            "Mandatory":  true,
+                                                            "URL":  "naprodimedatahotfix.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:28",
+                                                            "Mandatory":  true,
+                                                            "URL":  "naprodimedatapri.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:29",
+                                                            "Mandatory":  true,
+                                                            "URL":  "naprodimedatasec.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:30",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swda01-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:30",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swda02-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:31",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdb01-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:31",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdb02-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:31",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdc01-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:31",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdc02-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:31",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdd01-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:32",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdd02-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:32",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdin01-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Scripts \u0026 Win32 Apps",
+                                                            "TestTimestamp":  "2025-11-09 01:33:32",
+                                                            "Mandatory":  true,
+                                                            "URL":  "swdin02-mscdn.azureedge.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Push Notifications",
+                                                            "TestTimestamp":  "2025-11-09 01:33:32",
+                                                            "Mandatory":  true,
+                                                            "URL":  "notify.windows.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Push Notifications",
+                                                            "TestTimestamp":  "2025-11-09 01:33:32",
+                                                            "Mandatory":  true,
+                                                            "URL":  "wns.windows.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Autopilot Self-deploy",
+                                                            "TestTimestamp":  "2025-11-09 01:33:53",
+                                                            "Mandatory":  true,
+                                                            "URL":  "ekcert.spserv.microsoft.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Autopilot Self-deploy",
+                                                            "TestTimestamp":  "2025-11-09 01:34:14",
+                                                            "Mandatory":  true,
+                                                            "URL":  "ekop.intel.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Autopilot Self-deploy",
+                                                            "TestTimestamp":  "2025-11-09 01:34:15",
+                                                            "Mandatory":  true,
+                                                            "URL":  "ftpm.amd.com",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Collect Diagnostics",
+                                                            "TestTimestamp":  "2025-11-09 01:34:15",
+                                                            "Mandatory":  true,
+                                                            "URL":  "lgmsapeweu.blob.core.windows.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "All tenants"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:34:16",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape1.eus.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:34:37",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape10.weu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:34:58",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape11.weu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:35:19",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape12.weu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:35:40",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape13.jpe.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:36:01",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape17.jpe.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:36:22",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape18.jpe.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:36:43",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape19.jpe.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Asia and Pacific tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:37:04",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape2.eus2.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:37:25",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape3.cus.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:37:46",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape4.wus.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:38:07",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape5.scus.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "North America tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:38:29",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape7.neu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:38:50",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape8.neu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        },
+                                                        {
+                                                            "Category":  "Microsoft Azure attestation - Windows 11 only",
+                                                            "TestTimestamp":  "2025-11-09 01:39:11",
+                                                            "Mandatory":  true,
+                                                            "URL":  "intunemaape9.neu.attest.azure.net",
+                                                            "StatusCode":  200,
+                                                            "Status":  "Success",
+                                                            "RegionNote":  "Europe tenants only"
+                                                        }
+                                                    ]
+                            },
+    "NetworkConfiguration":  [
+                                 {
+                                     "IPv4DefaultGateway":  "",
+                                     "InterfaceAlias":  "vEthernet (External)",
+                                     "IPv4Address":  "169.254.119.170",
+                                     "IPv6DefaultGateway":  "",
+                                     "IPv6Address":  null,
+                                     "DNSServer":  "fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3",
+                                     "ProfileName":  "Unidentified network"
+                                 },
+                                 {
+                                     "IPv4DefaultGateway":  "192.168.9.1",
+                                     "InterfaceAlias":  "WiFi HP99",
+                                     "IPv4Address":  "192.168.9.175",
+                                     "IPv6DefaultGateway":  "",
+                                     "IPv6Address":  null,
+                                     "DNSServer":  "2406:b400:8:1::2, 2406:b400:50:7::2, 192.168.9.1",
+                                     "ProfileName":  "Network9"
+                                 },
+                                 {
+                                     "IPv4DefaultGateway":  "",
+                                     "InterfaceAlias":  "Bluetooth Network Connection 2",
+                                     "IPv4Address":  "169.254.62.122",
+                                     "IPv6DefaultGateway":  "",
+                                     "IPv6Address":  null,
+                                     "DNSServer":  "fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3",
+                                     "ProfileName":  ""
+                                 },
+                                 {
+                                     "IPv4DefaultGateway":  "",
+                                     "InterfaceAlias":  "Wired",
+                                     "IPv4Address":  "169.254.78.252",
+                                     "IPv6DefaultGateway":  "",
+                                     "IPv6Address":  null,
+                                     "DNSServer":  "fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3",
+                                     "ProfileName":  ""
+                                 }
+                             ],
+    "EnhancedSystemInfo":  {
+                               "SymantecEndpointProtection":  {
+                                                                  "RealTimeProtection":  "N/A",
+                                                                  "ServiceStatus":  "Not Installed",
+                                                                  "LastScanDate":  "N/A",
+                                                                  "ProductVersion":  "N/A",
+                                                                  "DefinitionVersion":  "N/A"
+                                                              },
+                               "CompanyPortal":  "Launched",
+                               "Tower":  "tower45",
+                               "NetworkType":  "Wired/Ethernet",
+                               "RemoteComputerName":  "N/A",
+                               "WindowsAppVersion":  "10.2.4012.0",
+                               "Location":  "hyd",
+                               "GatewayName":  "N/A",
+                               "Bandwidth":  "10 Gbps",
+                               "CitrixWorkspace":  "Skipped",
+                               "SymantecWSSAgent":  {
+                                                        "ServiceStatus":  "Not Installed",
+                                                        "DataCentre":  "N/A",
+                                                        "BNGStatus":  "N/A",
+                                                        "CloudFirewallServices":  "N/A",
+                                                        "Username":  "N/A",
+                                                        "Protocol":  "N/A"
+                                                    },
+                               "RoundTripTime":  "N/A",
+                               "TeamsInCloudPC":  "No",
+                               "TeamsFromEndpoint":  "No",
+                               "ProxyPACURL":  "Not Configured",
+                               "TesterName":  "Deepe",
+                               "DeviceType":  "Unknown (HP HP Z2 Mini G4 Workstation)",
+                               "TransportProtocol":  "RDP over TCP",
+                               "TesterEmail":  "depe",
+                               "ServiceNowURL":  "https://yourdomain.service-now.com"
+                           },
+    "Summary":  {
+                    "TestStatus":  "Passed",
+                    "TotalEndpointsTested":  118,
+                    "FailedConnections":  0,
+                    "SuccessfulConnections":  118
+                },
+    "FailedEndpoints":  [
+
+                        ],
+    "TestMetadata":  {
+                         "TestDate":  "2025-11-09",
+                         "TestTime":  "01:32:00",
+                         "Username":  "Deepe",
+                         "ComputerName":  "HPWORKSTATION99",
+                         "ProxySettings":  "NoProxy",
+                         "TestDateTime":  "2025-11-09 01:32:00"
+                     }
+}
