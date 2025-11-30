@@ -8,3 +8,7 @@ https://endpoints.office.com/changes/worldwide/0000000000?clientrequestid=b10c5e
 https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-ip-web-service?view=o365-worldwide
 https://techcommunity.microsoft.com/blog/microsoft_365blog/announcing-office-365-endpoint-categories-and-office-365-ip-address-and-url-web-/177638
 https://techcommunity.microsoft.com/blog/microsoft_365blog/getting-the-best-connectivity-and-performance-in-office-365/124694
+
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-network-connectivity-principles?view=o365-worldwide
+
+
