@@ -11,4 +11,10 @@ https://techcommunity.microsoft.com/blog/microsoft_365blog/getting-the-best-conn
 
 https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-network-connectivity-principles?view=o365-worldwide
 
+https://techcommunity.microsoft.com/blog/microsoft_365blog/getting-the-best-connectivity-and-performance-in-office-365/124694
 
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-network-connectivity-principles?view=o365-worldwide
+1. Identify and differentiate Office 365 traffic using Microsoft published endpoints
+2. Egress Office 365 data connections as close to the user as practical with matching DNS resolution
+3. Avoid network hairpins and optimize connectivity directly into the nearest entry point into Microsoft's global network
+4. Assess bypassing proxies, traffic inspection devices and duplicate security which is available in Office 365
